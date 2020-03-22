@@ -127,13 +127,6 @@
                             <goal>apps</goal>
                         </goals>
                     </execution>
-                    <execution>
-                        <id>create-config-reports</id>
-                        <phase>install</phase>                        
-                        <goals>
-                            <goal>reports</goal>
-                        </goals>
-                    </execution>
                 </executions>
             </plugin>            
 
