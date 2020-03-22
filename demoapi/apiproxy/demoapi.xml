@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="demoapi">
+    <Basepaths>/v1/demoapi</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1584871153261</CreatedAt>
+    <CreatedBy>sanjaymarathe007@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>demoapi</DisplayName>
+    <LastModifiedAt>1584871153261</LastModifiedAt>
+    <LastModifiedBy>sanjaymarathe007@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:7ee8aaa849a20a9c3fd686fdd39224bd98c4d46645f3d4d6df7f1c9736121a5e4e4cb670cdbd96a9f5a0826b417dd391edf5900cf50627d70481e635f7853b43</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
